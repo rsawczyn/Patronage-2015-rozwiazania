@@ -1,0 +1,3 @@
+javac StringReverse.java
+java StringReverse Hello_World
+pause
