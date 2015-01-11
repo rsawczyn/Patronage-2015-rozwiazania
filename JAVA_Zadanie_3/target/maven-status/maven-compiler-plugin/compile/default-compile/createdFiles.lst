@@ -1,0 +1,4 @@
+com\rsawczyn\app\NumbersConfiguration.class
+com\rsawczyn\app\resources\NumbersResource.class
+com\rsawczyn\app\NumbersApplication.class
+com\rsawczyn\app\core\Numbers.class
