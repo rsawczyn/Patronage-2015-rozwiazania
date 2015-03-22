@@ -11,7 +11,6 @@ server:
       selectorThreads: 2
       acceptQueueSize: 1024
       reuseAddress: true
-      soLingerTime: 600s
   adminConnectors:
     - type: http
       port: 8091
